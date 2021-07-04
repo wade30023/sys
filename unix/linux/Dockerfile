@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:20.10
 
 # Disable interactive prompts on package installation
 ENV DEBIAN_FRONTEND noninteractive
